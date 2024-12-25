@@ -1,0 +1,4 @@
+langchain-ollama
+Streamlit
+FAISS
+CSVLoader
